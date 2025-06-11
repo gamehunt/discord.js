@@ -19,7 +19,9 @@ import {
 	type GatewayReceivePayload,
 	type GatewaySendPayload,
 } from 'discord-api-types/v10';
-import { WebSocket, type Data } from 'ws';
+// import { WebSocket, type Data } from 'ws';
+import { WebSocket } from 'undici';
+import { type Data } from 'ws';
 import type * as ZlibSync from 'zlib-sync';
 import type { IContextFetchingStrategy } from '../strategies/context/IContextFetchingStrategy';
 import {
@@ -260,8 +262,8 @@ export class WebSocketShard extends AsyncEventEmitter<WebSocketShardEventsMap> {
 
 		this.debug([`Connecting to ${url}`]);
 
-		const connection = new WebSocketConstructor(url, [], {
-			handshakeTimeout: this.strategy.options.handshakeTimeout ?? undefined,
+		const connection = new WebSocketConstructor(url, {
+			// handshakeTimeout: this.strategy.options.handshakeTimeout ?? undefined,
 		});
 
 		connection.binaryType = 'arraybuffer';
