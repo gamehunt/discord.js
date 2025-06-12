@@ -1,6 +1,6 @@
 {
 	"$schema": "https://json.schemastore.org/package.json",
-	"name": "@discordjs-patched/docgen",
+	"name": "@discordjs/docgen",
 	"version": "0.12.1",
 	"description": "The docs.json generator for discord.js and its related projects",
 	"scripts": {
@@ -83,7 +83,6 @@
 		"node": ">=22.12.0"
 	},
 	"publishConfig": {
-		"access": "public",
-		"provenance": true
+		"access": "public"
 	}
 }

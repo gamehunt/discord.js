@@ -1,6 +1,6 @@
 {
 	"$schema": "https://json.schemastore.org/package.json",
-	"name": "@discordjs-patched/brokers",
+	"name": "@discordjs/brokers",
 	"version": "1.0.0",
 	"description": "Powerful set of message brokers",
 	"scripts": {
@@ -93,7 +93,6 @@
 		"node": ">=22.12.0"
 	},
 	"publishConfig": {
-		"access": "public",
-		"provenance": true
+		"access": "public"
 	}
 }

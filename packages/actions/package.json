@@ -1,6 +1,6 @@
 {
 	"$schema": "https://json.schemastore.org/package.json",
-	"name": "@discordjs-patched/actions",
+	"name": "@discordjs/actions",
 	"version": "0.1.0",
 	"description": "A set of actions that we use for our workflows",
 	"private": true,

@@ -1,6 +1,6 @@
 {
 	"$schema": "https://json.schemastore.org/package.json",
-	"name": "@discordjs-patched/api-extractor-utils",
+	"name": "@discordjs/api-extractor-utils",
 	"version": "1.0.0",
 	"description": "Utilities for api-extractor",
 	"scripts": {

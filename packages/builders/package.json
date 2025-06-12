@@ -1,6 +1,6 @@
 {
 	"$schema": "https://json.schemastore.org/package.json",
-	"name": "@discordjs-patched/builders",
+	"name": "@discordjs/builders",
 	"version": "1.11.1",
 	"description": "A set of builders that you can use when creating your bot",
 	"scripts": {
@@ -94,7 +94,6 @@
 		"node": ">=22.12.0"
 	},
 	"publishConfig": {
-		"access": "public",
-		"provenance": true
+		"access": "public"
 	}
 }

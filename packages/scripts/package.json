@@ -1,6 +1,6 @@
 {
 	"$schema": "https://json.schemastore.org/package.json",
-	"name": "@discordjs-patched/scripts",
+	"name": "@discordjs/scripts",
 	"version": "0.1.0",
 	"description": "A set of scripts that we use for our workflows",
 	"private": true,

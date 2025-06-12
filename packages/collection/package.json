@@ -1,6 +1,6 @@
 {
 	"$schema": "https://json.schemastore.org/package.json",
-	"name": "@discordjs-patched/collection",
+	"name": "@discordjs/collection",
 	"version": "2.1.1",
 	"description": "Utility data structure used in discord.js",
 	"scripts": {
@@ -82,7 +82,6 @@
 		"node": ">=22.12.0"
 	},
 	"publishConfig": {
-		"access": "public",
-		"provenance": true
+		"access": "public"
 	}
 }

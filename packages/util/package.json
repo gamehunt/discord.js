@@ -1,6 +1,6 @@
 {
 	"$schema": "https://json.schemastore.org/package.json",
-	"name": "@discordjs-patched/util",
+	"name": "@discordjs/util",
 	"version": "1.1.1",
 	"description": "Utilities shared across Discord.js packages",
 	"scripts": {
@@ -83,7 +83,6 @@
 		"node": ">=22.12.0"
 	},
 	"publishConfig": {
-		"access": "public",
-		"provenance": true
+		"access": "public"
 	}
 }

@@ -1,6 +1,6 @@
 {
 	"$schema": "https://json.schemastore.org/package.json",
-	"name": "@discordjs-patched/core",
+	"name": "@discordjs/core",
 	"version": "2.1.0",
 	"description": "A thinly abstracted wrapper around the rest API, and gateway.",
 	"scripts": {
@@ -94,7 +94,6 @@
 		"node": ">=22.12.0"
 	},
 	"publishConfig": {
-		"access": "public",
-		"provenance": true
+		"access": "public"
 	}
 }
