@@ -1,6 +1,6 @@
 {
 	"$schema": "https://json.schemastore.org/package.json",
-	"name": "@discordjs/next",
+	"name": "@discordjs-patched/next",
 	"version": "0.1.0",
 	"description": "A powerful TypeScript library for interacting with the Discord API",
 	"scripts": {

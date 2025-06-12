@@ -1,6 +1,6 @@
 {
 	"$schema": "https://json.schemastore.org/package.json",
-	"name": "@discordjs/proxy",
+	"name": "@discordjs-patched/proxy",
 	"version": "2.1.1",
 	"description": "Tools for running an HTTP proxy for Discord's API",
 	"scripts": {

@@ -1,6 +1,6 @@
 {
   "$schema": "https://json.schemastore.org/package.json",
-  "name": "discord.js",
+  "name": "discord.js-patched",
   "version": "14.16.3",
   "description": "A powerful library for interacting with the Discord API",
   "scripts": {

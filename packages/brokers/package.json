@@ -1,6 +1,6 @@
 {
 	"$schema": "https://json.schemastore.org/package.json",
-	"name": "@discordjs/brokers",
+	"name": "@discordjs-patched/brokers",
 	"version": "1.0.0",
 	"description": "Powerful set of message brokers",
 	"scripts": {

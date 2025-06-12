@@ -1,6 +1,6 @@
 {
 	"$schema": "https://json.schemastore.org/package.json",
-	"name": "@discordjs/rest",
+	"name": "@discordjs-patched/rest",
 	"version": "2.5.0",
 	"description": "The REST API for discord.js",
 	"scripts": {

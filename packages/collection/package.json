@@ -1,6 +1,6 @@
 {
 	"$schema": "https://json.schemastore.org/package.json",
-	"name": "@discordjs/collection",
+	"name": "@discordjs-patched/collection",
 	"version": "2.1.1",
 	"description": "Utility data structure used in discord.js",
 	"scripts": {

@@ -1,6 +1,6 @@
 {
 	"$schema": "https://json.schemastore.org/package.json",
-	"name": "@discordjs/builders",
+	"name": "@discordjs-patched/builders",
 	"version": "1.11.1",
 	"description": "A set of builders that you can use when creating your bot",
 	"scripts": {

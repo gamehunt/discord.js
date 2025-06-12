@@ -1,6 +1,6 @@
 {
 	"$schema": "https://json.schemastore.org/package.json",
-	"name": "@discordjs/voice",
+	"name": "@discordjs-patched/voice",
 	"version": "0.18.0",
 	"description": "Implementation of the Discord Voice API for Node.js",
 	"scripts": {

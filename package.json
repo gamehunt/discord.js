@@ -1,9 +1,9 @@
 {
 	"$schema": "https://json.schemastore.org/package.json",
-	"name": "@discordjs/discord.js",
+	"name": "@discordjs-patched/discord.js",
+	"private": true,
 	"version": "0.0.0",
 	"description": "A powerful library for interacting with the Discord API",
-	"private": true,
 	"scripts": {
 		"build": "turbo run build --concurrency=4",
 		"build:affected": "turbo run build --filter=...[origin/main] --concurrency=4",

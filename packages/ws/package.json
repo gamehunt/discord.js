@@ -1,6 +1,6 @@
 {
 	"$schema": "https://json.schemastore.org/package.json",
-	"name": "@discordjs/ws",
+	"name": "@discordjs-patched/ws",
 	"version": "2.0.2",
 	"description": "Wrapper around Discord's gateway",
 	"scripts": {
